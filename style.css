@@ -54,13 +54,14 @@ h2{
     border-radius: 10px;
     padding-left: 20px;
 }
-#Web-dev-experience{
+
+#web-dev{
     border-left: 7px solid;
-    border-image: linear-gradient(green, cyan);
+    border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 
 }
-#web-dev{
+#full-stack-expreice{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
